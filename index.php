@@ -7,7 +7,7 @@
 
 <body>
 <?php
-	echo "Meu primeiro PHP! Hello Word.";
+	echo "Meu primeiro PHP! Olá mundo.";
 ?>
 </body>
 </html>
